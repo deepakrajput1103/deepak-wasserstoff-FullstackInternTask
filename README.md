@@ -1,4 +1,5 @@
 Weather App
+
 Description
 The Weather App is a user-friendly web application that provides real-time weather information for cities around the world. Built using React and integrated with the OpenWeatherMap API, it allows users to search for weather data by city name or use their current location. The app displays current weather conditions, including temperature, humidity, wind speed, and more. Additionally, it offers both hourly and daily forecasts, giving users a comprehensive view of upcoming weather conditions.
 
@@ -15,27 +16,23 @@ OpenWeatherMap API: Provides the weather data.
 React Toastify: For displaying notifications and alerts.
 Tailwind CSS: For styling the application.
 Installation
+
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/deepakrajput1103/deepak-wasserstoff-FullstackInternTask.git
 Navigate to the project directory:
 
-bash
-Copy code
 cd weather-app
 Install the dependencies:
 
-bash
-Copy code
+
 npm install
 Running the Application
 To start the development server, run:
 
-bash
-Copy code
+
 npm run dev
+
 This will start the application in development mode, and you can view it in your browser at http://localhost:3000.
 
 Usage
@@ -46,6 +43,4 @@ Check the hourly and daily forecasts for detailed weather insights.
 Deployment
 This project is deployed and publicly accessible here.
 
-License
-This project is open-source and available under the MIT License.
 
